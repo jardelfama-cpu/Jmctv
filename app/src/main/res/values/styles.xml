@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Jmctv" parent="Theme.Leanback">
+        <item name="android:colorBackground">@color/brand_background</item>
+        <item name="colorPrimary">@color/brand_accent</item>
+        <item name="colorPrimaryDark">#4057D9</item>
+        <item name="colorAccent">@color/brand_accent</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+</resources>

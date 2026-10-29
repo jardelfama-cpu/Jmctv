@@ -1,0 +1,8 @@
+# Default ignores for Android projects
+.gradle/
+.idea/
+local.properties
+*.iml
+/build/
+/app/build/
+.DS_Store
